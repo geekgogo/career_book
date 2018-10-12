@@ -1,0 +1,71 @@
+{
+  "gitbook": "3.2.3",
+  "title": "程序员的日常",
+  "description": "https://www.gostep.club",
+  "author": "Gogo",
+  "language": "zh-hans",
+  "links":{
+    "sidebar":{
+      "Home":"http://www.gostep.club/"
+    }
+  },
+  "plugins":[
+    "-lunr",
+    "-search",
+    "-livereload",
+    "splitter",
+    "anchor-navigation-ex",
+    "-sharing",
+    "sharing-plus",
+    "-donate",
+    "search-plus",
+    "github",
+    "advanced-emoji",
+    "anchors",
+    "splitter",
+    "tbfed-pagefooter",
+    "expandable-chapters-small",
+    "-sectionx",
+    "local-video",
+    "favicon"
+  ],
+  "pluginsConfig":{
+    "theme-default":{
+      "showLevel":true
+    },
+    "github":{
+      "url":"https://github.com/geekgogo"
+    },
+    "sharing":{
+      "weibo":true,
+      "facebook":false,
+      "twitter":false,
+      "google":false,
+      "qq": true,
+      "all":[
+        "facebook",
+        "google",
+        "twitter",
+        "weibo",
+        "qq"
+      ]
+    },
+    "tbfed-pagefooter":{
+      "copyright":"<img src='./assets/images/filing.png'/>浙公网安备 33010602009652号",
+      "modify_label":"该文件修订时间：",
+      "modify_format":"YYYY-MM-DD HH:mm:ss"
+    },
+    "sectionx":{
+      "tag":"b"
+    },
+    "favicon":{
+      "shortcut":"./assets/images/favicon.ico",
+      "bookmark":"./assets/images/favicon.ico",
+      "appleTouch": "./assets/images/apple-touch-icon.png",
+      "appleTouchMore": {
+        "120x120": "./assets/images/apple-touch-icon-120x120.png",
+        "180x180": "./assets/images/apple-touch-icon-180x180.png"
+      }
+    }
+  }
+}

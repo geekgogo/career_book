@@ -51,7 +51,7 @@
       ]
     },
     "tbfed-pagefooter":{
-      "copyright":"<img src='./assets/images/filing.png'/>浙公网安备 33010602009652号",
+      "copyright":"<img src='/assets/images/filing.png'/>浙公网安备 33010602009652号",
       "modify_label":"该文件修订时间：",
       "modify_format":"YYYY-MM-DD HH:mm:ss"
     },
